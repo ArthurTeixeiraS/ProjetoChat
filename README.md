@@ -1,1 +1,1 @@
-Trabalho da Faculdade, diciplina Front-End
+Trabalho da Faculdade, disciplina Front-End
